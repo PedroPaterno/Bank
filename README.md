@@ -1,1 +1,1 @@
-# Projeto de um banco, para a aplicação do tratamento de exceções
+# Projeto simulando um banco, para a aplicação do tratamento de exceções
